@@ -22,7 +22,7 @@ function App() {
     });
   return (
     <>
-      Hello
+      Hello World
     </>
   )
 }
